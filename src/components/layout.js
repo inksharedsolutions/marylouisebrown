@@ -7,7 +7,7 @@
 
 import React from "react"
 import PropTypes from "prop-types"
-import Footer from './Footer'
+import Footer from './footer'
 
 const SecondLayout = ({ children }) => {
   return (

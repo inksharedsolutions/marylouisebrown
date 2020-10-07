@@ -27,7 +27,7 @@ const Footer = ()=>{
                         <ul>
 
                             <li>
-                                <a href="https://www.facebook.com/Adin-Kachisi-2219265034958157/"
+                                <a href="https://www.facebook.com/ML-Brown-101314178048810/"
                                 target="_blank">
                                     <FontAwesomeIcon
                                         className='font-awesome'
@@ -58,7 +58,7 @@ const Footer = ()=>{
                             <li>
                                 <a 
                                     target="_blank"
-                                    href="https://www.goodreads.com/book/show/46231748-deep-down-the-rabbit-hole">
+                                    href="https://www.goodreads.com/author/show/6434154.M_L_Brown">
                                     <FontAwesomeIcon 
                                         className='font-awesome'
                                         icon={faGoodreads} />

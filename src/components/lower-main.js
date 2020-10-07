@@ -19,10 +19,7 @@ const LowerMain = ()=>{
                         </h1>
 
                         <p className="author-content">
-                            Mary Louise Brown is an award-winning, unconventional thinker and 
-                            researcher challenging entrenched views, with insights on the 
-                            need to rethink and redesign society. He delves into ancient 
-                            mysteries as well as the very nature of current reality.
+                            I am married and live in Pennsylvania. I have two cats and one service dog that keep me busy. I have had pets my entire life. I had belonged to the Cat Fancier Association and that is how I got involved with showing cats as a hobby. During that time, I learned many things about cats. 
                             
                             <Link to="/about-the-author"
                              className="link-read">

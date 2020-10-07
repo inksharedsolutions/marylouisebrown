@@ -39,28 +39,12 @@ const ATB = (props)=>{
 
                         <article className="article-section column" id="author">
                             <p>
-                                Mary Louise Brown is an award-winning, unconventional 
-                                thinker and researcher challenging entrenched views, 
-                                with insights on the need to rethink and redesign society. 
-                                He delves into ancient mysteries as well as the very nature 
-                                of current reality. His subjects of interest include unknown 
-                                and suppressed ancient history, myths, art and symbols, unexplained 
-                                high strangeness and quantum reality. He combines fringe 
-                                research and creative analysis to unveil the mysteries 
-                                underneath the deceptively mundane events and unexamined cultural assumptions.
-                            </p>
-
-                            <p>              
-                                Residing in New York, he holds an M.A. in Urban Planning 
-                                from the University of Hertfordshire and a Graduate Diploma 
-                                in Interdisciplinary studies from UWA. His broad experience 
-                                also includes arts-humanities and built-environment, allowing 
-                                him interdisciplinary analysis on various subjects.
+                                I am married and live in Pennsylvania. I have two cats and one service dog that keep me busy. I have had pets my entire life. I had belonged to the Cat Fancier Association and that is how I got involved with showing cats as a hobby. During that time, I learned many things about cats. Stormie, the main character, is my cat and she does many crazy things, and that is how I came up with the idea for this book. I have also studied psychology. I have also been fire police as well as an EMT. I have worked as a restaurant manager before starting my writing career.
                             </p>
                             <p>
                                 <span className="author-name">
                                     <span className="author-span-ft">Author |  Writer </span>
-                                    <span className="ata-name">Mary Louise Brown</span>
+                                    <span className="ata-name">M. L.  Brown</span>
                                 </span>
                             </p>
                         </article>

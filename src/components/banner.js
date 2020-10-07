@@ -13,20 +13,19 @@ const Banner = ()=>{
                         <div className="right-col banner-img">
 
                             <div className="banner-text">
-                                <span className="first-title">Deep Down the</span>
+                                <span className="first-title">Stormie's</span>
                                 <h1>
-                                    <span>R</span>
                                     <span>A</span>
-                                    <span>B</span>
-                                    <span>B</span>
-                                    <span>I</span>
-                                    <span>T </span>
-                                    <span>H</span>
-                                    <span>O</span>
-                                    <span>L</span>
+                                    <span>D</span>
+                                    <span>V</span>
+                                    <span>E</span>
+                                    <span>N</span>
+                                    <span>T</span>
+                                    <span>U</span>
+                                    <span>R</span>
                                     <span>E</span>
                                 </h1>
-                                <p>The World is not what you Think</p>
+                                <p>Stormie's new family</p>
                             </div>
                             {/* <img src={ImgBanner}/> */}
                         </div>

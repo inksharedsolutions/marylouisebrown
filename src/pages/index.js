@@ -7,6 +7,7 @@ import Banner from "../components/banner"
 import MidBook from "../components/front-book"
 import Author from "../components/lower-main"
 import Footer from "../components/footer"
+import Artworks  from "../components/artwork"
 
 const IndexPage = (props) => (
   <Layout>
@@ -14,6 +15,7 @@ const IndexPage = (props) => (
     <Banner />
     <MidBook />
     <Author />
+    <Artworks/>
   </Layout>
 )
 

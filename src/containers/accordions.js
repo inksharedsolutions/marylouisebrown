@@ -10,9 +10,7 @@ const { Option } = Select
 
 
 const text = `
-  Reality is Not What You Think, challenges established beliefs, 
-  views, norms and current structures on a journey unveiling the 
-  hidden mysteries of mankind: past, present and reality itself.
+  Also, in this story, it also teaches life’s lessons. 
 `;
 
 
@@ -100,9 +98,9 @@ class Accordions extends React.Component {
                <BookLink
                     data={{
                       ebooks:{
-                          stratton : 'https://www.stratton-press.com/books/deep-down-the-rabbit-hole-the-world-is-not-what-you-think/',
-                          barnes: 'https://www.barnesandnoble.com/w/deep-down-the-rabbit-hole-adin-kachisi/1126392436?ean=9781643455211',
-                          amazon :'https://www.amazon.com/Deep-Down-Rabbit-Hole-World-ebook/dp/B07SVJCVYQ/ref=sr_1_1?dchild=1&keywords=9781643455211&qid=1601364815&s=books&sr=1-1', 
+                          stratton : 'https://www.stratton-press.com/books/',
+                          barnes: 'https://www.barnesandnoble.com/w/stormies-adventures-m-l-brown/1135622810?ean=9781643458090',
+                          amazon :'https://www.amazon.com/Stormies-Adventures-New-Family-ebook/dp/B082VLPKRB/ref=sr_1_1?keywords=9781643458090&qid=1576687427&sr=8-1', 
                         },
                         reviews:{},
                         isNonfront:false,
@@ -124,8 +122,8 @@ class Accordions extends React.Component {
                             isNonfront:false,
                             reviews:{},
                             paperback:{
-                              amazon:'https://www.amazon.com/Deep-Down-Rabbit-Hole-World/dp/1948654253/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1601364851&sr=1-1',
-                              barnes:'https://www.barnesandnoble.com/w/deep-down-the-rabbit-hole-adin-kachisi/1126392436?ean=9781948654258',
+                              amazon:'https://www.amazon.com/Stormies-Adventures-New-Family/dp/1643457365/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1576687427&sr=8-1',
+                              barnes:'https://www.booksamillion.com/p/Stormies-Adventures/M-L-Brown/9781643457369?id=8009965417365&_ga=2.242091074.1904462625.1602048182-1770015116.1600996550',
                               booksamillion:'https://www.booksamillion.com/p/Deep-Down-Rabbit-Hole/Adin-Kachisi/9781948654258?id=8009965417365&_ga=2.150596287.884073673.1601364975-1770015116.1600996550',
                           }
                       }}

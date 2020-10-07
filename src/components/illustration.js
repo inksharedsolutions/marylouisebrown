@@ -1,8 +1,7 @@
 import React from 'react'
-import FrontBook from '../../static/books/book1.png'
-import Accordions from '../containers/accordions'
+import FrontBook from '../../static/books/main_book.png'
 
-const MidBook = (props)=>{
+const Illustration = (props)=>{
     return(
         <>    
             <section className="upper-main">
@@ -14,15 +13,13 @@ const MidBook = (props)=>{
 
                         <div className="content-wraps">
 
-                            <span className="italic-tag">Read, listen, and learn in various formats</span>
+                            <span className="italic-tag">Illustrations</span>
 
-                            <h1>Stormie's Adventure</h1>
-                            <span>Stormie's new family</span>
+                            <h1>Illustrations</h1>
+                            <span>Illustrations</span>
                             <p>
-                                This is a story about Stormie’s secrets that she hasn’t revealed to anyone and that leads to a mystery that changes her life forever. Her secrets get revealed one at a time. 
+                                Illustration
                             </p>
-
-                            <Accordions/>
                         </div>
 
                         <div className="book-wraps">
@@ -36,4 +33,4 @@ const MidBook = (props)=>{
     )
 }
 
-export default MidBook
+export default Illustration

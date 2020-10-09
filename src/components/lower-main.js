@@ -13,13 +13,13 @@ const LowerMain = ()=>{
                     </div>
 
                     <div className="wrapper-auth-content" id="auth-content-wrapper">    
-                        <p className="italic-tag margin-off">Well done, good and faithful servant</p>
+                        <p className="italic-tag margin-off"></p>
                         <h1>    
                             The Author
                         </h1>
 
                         <p className="author-content">
-                            I am married and live in Pennsylvania. I have two cats and one service dog that keep me busy. I have had pets my entire life. I had belonged to the Cat Fancier Association and that is how I got involved with showing cats as a hobby. During that time, I learned many things about cats. 
+                            I met my husband nineteen years ago in EMT school and we married five years later. I had many different jobs in the restaurant business in my life time. But the two jobs that I enjoy the most is writing and being a first lady.
                             
                             <Link to="/about-the-author"
                              className="link-read">

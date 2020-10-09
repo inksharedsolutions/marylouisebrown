@@ -58,7 +58,7 @@ const Footer = ()=>{
                             <li>
                                 <a 
                                     target="_blank"
-                                    href="https://www.goodreads.com/author/show/6434154.M_L_Brown">
+                                    href="https://www.goodreads.com/book/show/49511902-stormie-s-adventures">
                                     <FontAwesomeIcon 
                                         className='font-awesome'
                                         icon={faGoodreads} />

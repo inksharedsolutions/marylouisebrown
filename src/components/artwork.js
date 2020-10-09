@@ -29,7 +29,7 @@ const Artwork = () =>{
     return (
         <>
             <section className="artworks-section">
-                <h1><a href="#">Illustrations</a></h1>
+                <h1>Illustrations</h1>
                 <div className="art-row">
                 
                     <div className="art-columns">
@@ -90,37 +90,6 @@ const Artwork = () =>{
                         <img 
                         alt={`artwork-img`} 
                         src={Img12} />
-                    </div>
-                </div>
-                <div className="art-row">
-                
-                    <div className="art-columns">
-                        <img 
-                        alt={`artwork-img`} 
-                        src={Img13} />
-                    </div>
-
-                    <div className="art-columns">
-                        <div className="two-columns">
-                            <img 
-                            alt={`artwork-img`} 
-                            src={Img14} />
-                            <img 
-                            alt={`artwork-img`} 
-                            src={Img15} />
-                        </div>                
-                        <img 
-                        alt={`artwork-img`} 
-                        src={Img16} />
-                    </div>
-
-                    <div className="art-columns">
-                        <img 
-                        alt={`artwork-img`} 
-                        src={Img17} />
-                        <img 
-                        alt={`artwork-img`} 
-                        src={Img18} />
                     </div>
                 </div>
             </section>        

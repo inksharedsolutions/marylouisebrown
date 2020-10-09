@@ -98,7 +98,7 @@ class Accordions extends React.Component {
                <BookLink
                     data={{
                       ebooks:{
-                          stratton : 'https://www.stratton-press.com/books/',
+                          stratton : 'https://www.stratton-press.com/books/stormies-adventures-stormies-new-family/',
                           barnes: 'https://www.barnesandnoble.com/w/stormies-adventures-m-l-brown/1135622810?ean=9781643458090',
                           amazon :'https://www.amazon.com/Stormies-Adventures-New-Family-ebook/dp/B082VLPKRB/ref=sr_1_1?keywords=9781643458090&qid=1576687427&sr=8-1', 
                         },
@@ -123,8 +123,8 @@ class Accordions extends React.Component {
                             reviews:{},
                             paperback:{
                               amazon:'https://www.amazon.com/Stormies-Adventures-New-Family/dp/1643457365/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1576687427&sr=8-1',
-                              barnes:'https://www.booksamillion.com/p/Stormies-Adventures/M-L-Brown/9781643457369?id=8009965417365&_ga=2.242091074.1904462625.1602048182-1770015116.1600996550',
-                              booksamillion:'https://www.booksamillion.com/p/Deep-Down-Rabbit-Hole/Adin-Kachisi/9781948654258?id=8009965417365&_ga=2.150596287.884073673.1601364975-1770015116.1600996550',
+                              barnes:'https://www.barnesandnoble.com/w/stormies-adventures-m-l-brown/1135622810?ean=9781643457369',
+                              booksamillion:'https://www.booksamillion.com/p/Stormies-Adventures/M-L-Brown/9781643457369?id=8009965417365&_ga=2.194710893.1905326297.1602216593-1770015116.1600996550',
                           }
                       }}
                   />

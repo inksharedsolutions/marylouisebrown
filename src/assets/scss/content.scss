@@ -37,7 +37,7 @@
 .upper-main{
     
     /*changes*/
-    background: linear-gradient(to bottom, #2a192b 0%, #aaa8a8 100%);
+    background: linear-gradient(to bottom, #000000 0%, #aaa8a8 100%);
     // background: #131e22;
 
     padding: 11% 0;
@@ -229,7 +229,7 @@
 
 
 .author-section{
-    background: linear-gradient(to bottom, #2a192b 0%, #aaa8a8 100%);
+    background: linear-gradient(to bottom, #000000 0%, #aaa8a8 100%);
     &:after{
         content: '';
         width: 70%;
@@ -250,7 +250,7 @@
 
 #auth-content-wrapper{
     // background: #151515;
-    background: linear-gradient(to bottom, #2a192b 0%, #aaa8a8 100%);
+    background: linear-gradient(to bottom, #000000 0%, #aaa8a8 100%);
     padding: 20% 10%;
     height: 735px;
     // background: linear-gradient(to bottom, #000000 0%, #353535 100%);

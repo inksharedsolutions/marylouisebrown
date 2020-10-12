@@ -18,7 +18,7 @@ const Footer = ()=>{
                             <img src={Logo} alt="img-footer-logo"/>
                         </h1>
                         <p>
-                            Mary Louise Brown loves to hear from readers. You can reach her via email. 
+                            M. L. Brown loves to hear from readers. You can reach her via email. 
                             Feel free to send questions about writing, her works, interviews 
                             and other publicity matters.
                         </p> 

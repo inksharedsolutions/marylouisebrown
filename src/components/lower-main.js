@@ -28,7 +28,7 @@ const LowerMain = ()=>{
                         </p>
                         
                         <p className="margin-off auth-name">
-                            Mary Louise Brown
+                            M. L. Brown
                         </p>
 
                         <span className="span-tagline italic-tag">

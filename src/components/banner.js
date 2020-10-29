@@ -24,6 +24,7 @@ const Banner = ()=>{
                                     <span>U</span>
                                     <span>R</span>
                                     <span>E</span>
+                                    <span>S</span>
                                 </h1>
                                 <p>Stormie's new family</p>
                             </div>

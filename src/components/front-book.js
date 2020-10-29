@@ -16,7 +16,7 @@ const MidBook = (props)=>{
 
                             <span className="italic-tag">Read, listen, and learn in various formats</span>
 
-                            <h1>Stormie's Adventure</h1>
+                            <h1>Stormie's Adventures</h1>
                             <span>Stormie's new family</span>
                             <p>
                                 This is a story about Stormie’s secrets that she hasn’t revealed to anyone and that leads to a mystery that changes her life forever. Her secrets get revealed one at a time. 

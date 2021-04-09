@@ -58,7 +58,32 @@ const ATB = (props)=>{
                                     }
                                 }} 
                             />
-                            <div className="columns book-container-ft">
+                            <BookInfo
+                                data={{
+                                    title:`Stormie's Adventures`,
+                                    spanFirst: `Stormie's New Family`,
+                                    imgSrc: SecondBook,
+                                    id:'the_gifted_one',
+                                    content:
+                                    `
+                                    <p>
+                                        This is a story about Stormie's secrets that she hasn't revealed to anyone and that leads to a mystery that changes her life forever. Her secrets get revealed one at a time. Also, In this story it also teaches life's lessons.
+                                    </p> 
+                                    `,
+
+                                    ebooks:{
+                                        stratton : '',
+                                        barnes: 'https://www.barnesandnoble.com/w/stormies-adventures-ml-brown/1121392646?ean=9781648951480',
+                                        amazon :'https://www.amazon.com/Stormies-Adventures-M-L-Brown-ebook/dp/B08FNZMBGF/ref=sr_1_1?dchild=1&keywords=9781648951480&qid=1617990552&sr=8-1', 
+                                    },
+                                    paperback:{
+                                        amazon:'https://www.amazon.com/Stormies-Adventures-M-L-Brown/dp/1643459015/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1602271177&sr=8-1',
+                                        barnes:'https://www.barnesandnoble.com/w/stormies-adventures-ml-brown/1121392646?ean=9781643459011',
+                                        booksamillion:'https://www.booksamillion.com/p/Stormies-Adventures/M-L-Brown/9781643459011?id=8179891524610',
+                                    }
+                                }} 
+                            />
+                            {/* <div className="columns book-container-ft">
                                 <div className="column">
                                     <div className="bookImgContainer">
                                         <img alt="main-book" src={SecondBook} />
@@ -97,7 +122,7 @@ const ATB = (props)=>{
 
 
                                 </div>	
-                            </div>
+                            </div> */}
                             <div className="commentSection">
                                 <div id="disqus_thread">
                                     <DiscussionEmbed {...disqusConfig} />
